@@ -1,0 +1,13 @@
+img
+{
+    width: 100px;
+    height: 200px;
+    border: 2px solid yellowgreen;
+    border-radius: 2px;
+}
+
+body
+{
+    background:linear-gradient(90deg,lightyellow,darkgoldenrod,coral);
+    color: darkblue;
+}
